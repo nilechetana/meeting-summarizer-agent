@@ -1,0 +1,40 @@
+Meeting Title: Q3 Product Roadmap Planning
+Date: July 28, 2026
+Attendees: Sarah (Product Manager), James (Tech Lead), Priya (Designer), Marcus (Marketing), Linda (QA)
+
+---
+
+Sarah: Alright everyone, let's get started. We have a lot to cover today. First item — the mobile app redesign. Priya, where are we on the new UI mockups?
+
+Priya: I've completed about 70% of the mockups. The homepage and dashboard are done. I still need to finish the settings screen and the onboarding flow. I should have everything ready by end of next week.
+
+Sarah: Great. James, once Priya hands off the mockups, how long do you think implementation will take?
+
+James: Realistically, if we get the mockups by July 21st, we can start development immediately. I'd estimate 3 weeks for the core screens, so we're looking at August 11th for a dev-complete build.
+
+Sarah: Okay, let's lock that in. Marcus, we need the marketing landing page updated before the app launches. Can your team handle that?
+
+Marcus: Yes, but I'll need the final design assets from Priya first. Once I have those, we can turn around the landing page in about 5 business days.
+
+Sarah: Perfect. Linda, I want QA involved early this time. Can you start preparing test cases based on the current mockups?
+
+Linda: Absolutely. I'll start drafting the test plan this week. I'll need access to Priya's mockups as soon as they're available.
+
+James: One more thing — we have a critical bug in the payment module that's affecting about 12% of users on iOS. I've assigned it to Dev Team but it needs to be resolved before we push any new release.
+
+Sarah: That's a blocker. James, can you personally oversee that fix and give us a status update by Wednesday?
+
+James: Yes, I'll make sure it's prioritized. We should have a fix ready for testing by Wednesday.
+
+Sarah: Linda, once James's team pushes the fix, can you fast-track testing on it?
+
+Linda: Yes, give me 24 hours after the fix is deployed and I'll have a full test report.
+
+Sarah: Perfect. Last item — our Q3 OKR review is due to leadership by July 25th. I'll be putting that together but I need input from everyone. Please send me your team's progress updates by July 20th.
+
+Marcus: Will do.
+James: Got it.
+Priya: Sure.
+Linda: No problem.
+
+Sarah: Great meeting everyone. Let's stay on track. Talk soon.
